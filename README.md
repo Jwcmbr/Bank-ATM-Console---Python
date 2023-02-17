@@ -1,2 +1,2 @@
 # Bank-ATM-software-in-Python-
-source code for general use Bank ATM system 
+script code for Bank ATM system 
